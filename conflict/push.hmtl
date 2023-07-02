@@ -1,2 +1,6 @@
 local to remote
+<<<<<<< HEAD
 local to remote
+=======
+リモートで変更しました
+>>>>>>> c860a36013383241a7ff28731281abbc747525fc
